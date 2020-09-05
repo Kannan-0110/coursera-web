@@ -1,0 +1,48 @@
+
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+h1{
+	margin: 30px;
+	align-content: center;
+
+}
+section{
+	border: 1px solid black;
+	position: relative;
+	background:grey;
+	padding: 10px;
+	margin: 30px;
+
+}
+#head1 {
+	position: relative;
+	border: 1px solid black;
+	background: pink;
+	color: black;
+	font-weight: bold;
+	right: 0px;
+	top: 0px;
+
+
+}
+
+#head2 {
+	position: relative;
+	border: 1px solid black; 
+	background: red;
+	color: white;
+	font-weight: bold; 
+
+}
+
+#head3 {
+	position: relative;
+	border: 1px solid black;
+	background: yellow;
+	color: black;
+	font-weight: bold; 
+
+}
